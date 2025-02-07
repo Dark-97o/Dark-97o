@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-97o" alt="dark-97o" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dark-97o&theme=radical&no-frame=false&no-bg=false&margin-w=4" /></a> </p>
 </div>
 
 ###
@@ -120,3 +120,6 @@
 <div align="center">
   <img height="200" src="https://lh3.googleusercontent.com/pw/AP1GczO1XE2cf7sQPsXPGCe1DHKhSvIPaA0pDPzp5PL8ZbkRUGh7DZlObpGZJtOggzYAfLzgiHKmxts_WFuo1ete1G6NZtJdGlraBV7YOe4e3hGUR9glMAjXbCnxx1sH3jvI5IPHKaLG7T1fLKz-r_wQeqEn=w1920-h453-s-no-gm?authuser=0"  />
 </div>
+
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
