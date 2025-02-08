@@ -116,7 +116,7 @@
 
 ###
 
-<h3 align="center">Badges: </h3>
+<h3 align="left">Badges: </h3>
 <div align="center">
   <img height="200" src="https://lh3.googleusercontent.com/pw/AP1GczO1XE2cf7sQPsXPGCe1DHKhSvIPaA0pDPzp5PL8ZbkRUGh7DZlObpGZJtOggzYAfLzgiHKmxts_WFuo1ete1G6NZtJdGlraBV7YOe4e3hGUR9glMAjXbCnxx1sH3jvI5IPHKaLG7T1fLKz-r_wQeqEn=w1920-h453-s-no-gm?authuser=0"  />
 </div>
