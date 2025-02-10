@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on N0VA-Companion Bot<br><br>🌱 I’m currently learning java , kotlin<br><br>👯 I’m looking to collaborate on AIML Projects</p>
+<p align="left">🔭 I’m currently working on N0VA-Companion Bot<br><br>🌱 I’m currently learning Java, CSS, OpenCV<br><br>👯 I’m looking to collaborate on AIML Projects</p>
 
 ###
 
